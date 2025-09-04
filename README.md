@@ -143,12 +143,13 @@ This repo collects the **best resources in the Kafka ecosystem**.
 
 ## 📊 Monitoring & Observability
 
-* [K-Logic](https://github.com/awesome-kafka/klogic) – Kafka dashboards, logs, and metrics (open-source)
+* [KLogic](https://klogic.io) – Kafka dashboards, logs, and metrics
 * [Burrow](https://github.com/linkedin/Burrow) – Consumer lag checking tool
 * [Cruise Control](https://github.com/linkedin/cruise-control) – Kafka cluster balancing
 * [Prometheus JMX Exporter](https://github.com/prometheus/jmx_exporter) – Expose Kafka metrics
 * [Datadog Kafka Integration](https://docs.datadoghq.com/integrations/kafka/)
-* [New Relic Kafka Monitoring](https://docs.newrelic.com/infrastructure/host-integrations/host-integrations-list/kafka-integration/)
+* [New Relic Kafka Monitoring](https://docs.newrelic.com/docs/infrastructure/host-integrations/host-integrations-list/kafka/kafka-config/)
+* [Atatus Kafka Monitoring](https://www.atatus.com/)
 
 ---
 
