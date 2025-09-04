@@ -44,7 +44,7 @@ This repo collects the **best resources in the Kafka ecosystem**.
 * [Apache Kafka Official Docs](https://kafka.apache.org/documentation/)
 * [Confluent Kafka Tutorials](https://developer.confluent.io/learn-kafka/)
 * [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
-* [Kafka Internals](https://books.japila.pl/kafka-internals/features/)
+* [Kafka Internals](https://github.com/japila-books/kafka-internals)
 * [Kafka Streams 101](https://kafka.apache.org/documentation/streams/)
 
 ---
