@@ -158,15 +158,15 @@ This repo collects the **best resources in the Kafka ecosystem**.
 * [Kafka Security Docs](https://kafka.apache.org/documentation/#security)
 * [Kafka SSL Setup Guide](https://docs.confluent.io/platform/current/kafka/encryption.html)
 * [RBAC in Kafka](https://docs.confluent.io/platform/current/security/rbac/index.html)
-* [OAuth & SASL Integration](https://strimzi.io/docs/operators/latest/full.html#con-oauth-str)
+* [OAuth & SASL Integration](https://docs.confluent.io/platform/current/security/authentication/sasl/oauthbearer/overview.html)
 
 ---
 
 ## 📚 Books & Talks
 
-* *Kafka: The Definitive Guide* by Neha Narkhede, Gwen Shapira, Todd Palino
-* *Designing Event-Driven Systems* by Ben Stopford
-* [Kafka Summit Talks](https://www.confluent.io/events/kafka-summit/)
+* [Kafka: The Definitive Guide](https://www.confluent.io/resources/ebook/kafka-the-definitive-guide/) by Neha Narkhede, Gwen Shapira, Todd Palino
+* [Designing Event-Driven Systems](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038252/) by Ben Stopford
+* [Kafka Summit Talks](https://www.kafka-summit.org/)
 * [YouTube: Confluent Kafka Tutorials](https://www.youtube.com/c/Confluent)
 
 ---
@@ -177,6 +177,7 @@ This repo collects the **best resources in the Kafka ecosystem**.
 * [Confluent Blog](https://www.confluent.io/blog/)
 * [Redpanda Blog](https://redpanda.com/blog)
 * [Strimzi Blog](https://strimzi.io/blog/)
+* [KLogic Blog](https://klogic.io/blog/)
 * [Kafka Users Mailing List](https://kafka.apache.org/contact)
 
 ---
