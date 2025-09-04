@@ -43,8 +43,8 @@ This repo collects the **best resources in the Kafka ecosystem**.
 
 * [Apache Kafka Official Docs](https://kafka.apache.org/documentation/)
 * [Confluent Kafka Tutorials](https://developer.confluent.io/learn-kafka/)
-* [Kafka in a Nutshell (LinkedIn Engineering Blog)](https://engineering.linkedin.com/kafka)
-* [Kafka Internals (GitHub Guide)](https://github.com/jpzk/missing-kafka-docs)
+* [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
+* [Kafka Internals](https://books.japila.pl/kafka-internals/features/)
 * [Kafka Streams 101](https://kafka.apache.org/documentation/streams/)
 
 ---
@@ -127,7 +127,7 @@ This repo collects the **best resources in the Kafka ecosystem**.
 * [Kafka Connect Hub](https://www.confluent.io/hub/) – Official marketplace
 * [Debezium](https://debezium.io/) – Change Data Capture (CDC) for MySQL, PostgreSQL, MongoDB, etc.
 * [Stream Reactor](https://github.com/lensesio/stream-reactor) – Connectors for Cassandra, Elastic, InfluxDB, and more
-* [Redpanda Connect](https://redpanda.com/connectors) – Alternative connector ecosystem
+* [Redpanda Connect](https://www.redpanda.com/connect) – Alternative connector ecosystem
 
 ---
 
